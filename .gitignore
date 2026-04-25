@@ -1,0 +1,23 @@
+# Keil build artifacts
+Objects/
+Listings/
+*.crf
+*.d
+*.dep
+*.axf
+*.htm
+*.map
+*.lst
+*.lnp
+*.sct
+
+# Debug configs
+DebugConfig/
+
+# User-specific Keil UI settings
+*.uvguix.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
